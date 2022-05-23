@@ -1,3 +1,3 @@
-print('hello world')
-#debug python ActivitySet01/problem02.py
-#hello world
+x="12"
+x.str()
+print(x)
