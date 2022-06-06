@@ -1,3 +1,1 @@
-x="12"
-x.str()
-print(x)
+print("hello world")
